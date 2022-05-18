@@ -125,5 +125,29 @@ body {
        background:bottom center no-repeat url(/images/pattern-background-mobile.svg);
        background-size: cover;
        background-color: var(--Pale-blue);
+   }
+   .container {
+    height: 100vh;
+    width: 83vw;
+    margin: 90px auto;
    } 
+   .img-hero img {
+    width: 100%;
+   }
+   .order-summary {
+    width: 80%;
+   }
+   .annual-plan p span {
+       margin: 2px;
+   }
+   .annual-plan p .price {
+       margin: 2px;
+   }
+   .title {
+    margin-top: 30px;
+    margin-bottom: 30px;
+   }
+   .buttons {
+    width: 85%;
+   }
 }
